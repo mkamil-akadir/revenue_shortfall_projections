@@ -1,0 +1,49 @@
+﻿Region,Month,Projected_Revenue,Actual_Revenue,Growth_Target,Status
+North,2024-01,500000,490000,0.05,Achieved
+East,2024-01,750000,n/a,0.04,In Progress
+South,2024-01,625000,500000,0.03,Below Target
+West,2024-01,"""Not Available""",720000,0.06,Achieved
+North,2024-02,550000,530000,,Achieved
+East,2024-02,770000,700000,0.04,In Progress
+South,2024-02,640000,,0.03,Below Target
+West,2024-02,680000,700000,"""n/a""",NaN
+North,2024-03,600000,580000,0.05,In Progress
+East,2024-03,NaN,750000,0.04,Achieved
+South,2024-03,660000,630000,0.03,Below Target
+West,2024-03,700000,"""700000""",0.06,In Progress
+North,2024-04,NaN,NaN,NaN,NaN
+East,2024-04,NaN,NaN,NaN,NaN
+South,2024-04,NaN,NaN,NaN,NaN
+West,2024-04,NaN,NaN,NaN,NaN
+North,2024-05,NaN,NaN,NaN,NaN
+East,2024-05,NaN,NaN,NaN,NaN
+South,2024-05,NaN,NaN,NaN,NaN
+West,2024-05,NaN,NaN,NaN,NaN
+North,2024-06,NaN,NaN,NaN,NaN
+East,2024-06,NaN,NaN,NaN,NaN
+South,2024-06,NaN,NaN,NaN,NaN
+West,2024-06,NaN,NaN,NaN,NaN
+North,2024-07,NaN,NaN,NaN,NaN
+East,2024-07,NaN,NaN,NaN,NaN
+South,2024-07,NaN,NaN,NaN,NaN
+West,2024-07,NaN,NaN,NaN,NaN
+North,2024-08,NaN,NaN,NaN,NaN
+East,2024-08,NaN,NaN,NaN,NaN
+South,2024-08,NaN,NaN,NaN,NaN
+West,2024-08,NaN,NaN,NaN,NaN
+North,2024-09,NaN,NaN,NaN,NaN
+East,2024-09,NaN,NaN,NaN,NaN
+South,2024-09,NaN,NaN,NaN,NaN
+West,2024-09,NaN,NaN,NaN,NaN
+North,2024-10,NaN,NaN,NaN,NaN
+East,2024-10,NaN,NaN,NaN,NaN
+South,2024-10,NaN,NaN,NaN,NaN
+West,2024-10,NaN,NaN,NaN,NaN
+North,2024-11,NaN,NaN,NaN,NaN
+East,2024-11,NaN,NaN,NaN,NaN
+South,2024-11,NaN,NaN,NaN,NaN
+West,2024-11,NaN,NaN,NaN,NaN
+North,2024-12,NaN,NaN,NaN,NaN
+East,2024-12,NaN,NaN,NaN,NaN
+South,2024-12,NaN,NaN,NaN,NaN
+West,2024-12,NaN,NaN,NaN,NaN

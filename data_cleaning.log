@@ -1,0 +1,12 @@
+2024-11-12 09:14:09,805 - INFO - Standardizing the Month column
+2024-11-12 09:14:09,872 - INFO - Filling missing values in Projected_Revenue
+2024-11-12 09:14:15,527 - INFO - Standardizing the Month column
+2024-11-12 09:14:15,536 - INFO - Filling missing values in Projected_Revenue
+2024-11-12 09:15:13,115 - INFO - Standardizing the Month column
+2024-11-12 09:15:15,331 - INFO - Standardizing the Month column
+2024-11-12 09:15:30,924 - INFO - Filling missing values in Projected_Revenue
+2024-11-12 09:16:35,283 - INFO - Filling missing values in Projected_Revenue
+2024-11-12 09:16:54,981 - INFO - Filling missing values in Actual_Revenue with 0
+2024-11-12 09:17:03,391 - INFO - Converting Projected_Revenue and Actual_Revenue to numeric values
+2024-11-12 09:17:27,483 - INFO - Calculating cumulative values for Projected and Actual Revenue
+2024-11-12 09:19:10,691 - INFO - Cleaned and processed data saved to cleaned\cumulative_revenue_report.csv
