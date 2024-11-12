@@ -51,7 +51,6 @@ Place the raw data file `(revenue_report.csv)` in the raw directory.
 Open Jupyter Lab:
 
 ```bash
-Copy code
 jupyter lab
 ```
 
@@ -87,7 +86,6 @@ Example Code Snippets
 Here's a quick look at the code used for data cleaning and cumulative calculations:
 
 ``` python
-Copy code
 # Load data
 df = pd.read_csv('raw/revenue_report.csv')
 
